@@ -4,7 +4,8 @@
 		<foaf:name>Silvia Mazzini</foaf:name>
 		<foaf:givenName>Silvia</foaf:givenName>
 		<foaf:familyName>Mazzini</foaf:familyName>
-		<foaf:mbox>dilvia@lodlive.it</foaf:mbox>
+		<foaf:mbox>silvia@lodlive.it</foaf:mbox>
+		<foaf:mbox>smazzini@regesta.com</foaf:mbox>
 		<foaf:workplaceHomepage rdf:resource="http://regesta.com"/>
 		<foaf:nick>regesta_sm</foaf:nick>
 		<foaf:schoolHomepage rdf:resource="http://www.dipartimentodistoria.uniroma2.it/"/>
